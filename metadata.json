@@ -1,0 +1,6 @@
+{
+  "name": "SoftData24 - Interactive Recruitment & IT Talent Platform",
+  "description": "Enterprise recruitment and IT staffing platform by SoftData24 featuring AI resume parsing, candidate tracking (ATS), automated talent matching, multi-platform job syndication, and client communication workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
